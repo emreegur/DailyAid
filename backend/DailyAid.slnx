@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DailyAid.API/DailyAid.API.csproj" />
+  <Project Path="DailyAid.Application/DailyAid.Application.csproj" />
+  <Project Path="DailyAid.Domain/DailyAid.Domain.csproj" />
+  <Project Path="DailyAid.Infrastructure/DailyAid.Infrastructure.csproj" />
+</Solution>
