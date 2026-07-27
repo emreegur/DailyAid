@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/f4ed0c33-aba9-4fa8-991d-9faaf4859149
+
+
+
 # DailyAid - AI-Powered Elderly Care Platform
 
 DailyAid is a comprehensive solution designed to simplify elderly care with medication tracking, daily routine management, and an AI-powered health assistant.
