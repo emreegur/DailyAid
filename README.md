@@ -104,7 +104,6 @@ This is the web application interface for both Elderly and Caregiver users.
 ---
 
 ## Accessing the Application
-
 Once all three services are running successfully, open your browser and navigate to:
 **[http://localhost:3000](http://localhost:3000)**
 
